@@ -11,7 +11,7 @@ This is a method where you use multiple discord apps. For every Account you want
 5. Press on Decompile
 6. navigate to the decompiled APK directory. You can get to there with Pressing the Button on the Right.
 7. In the Folder you see another Folder with the name of the apk go in there and edit the AndroidManifest.xml
-    * Relace the content with the content from the AndroidManifest.xml from this repo
+    * Relace the content with the content from the AndroidManifest.xml with the content from the AndroidManifest.xml file from this repo
     * Replace the the content <replace with a new package name> with a new package name like discord1, discord2 or something else. **Important it has to be an that dont exist on your phone**   
 8. After that on thing navigate to res > values > strings.xml   
   go into line 2090 / where it shows `<string name="discord">Discord</string>`
@@ -30,3 +30,6 @@ This is a method where you use multiple discord apps. For every Account you want
 
 A new App should appear on your phone.  
 Here you have a second Discord App on your Phone
+   
+I you have any Questions Ask me on Discord Johannes7k75#9801
+   or open a issue
