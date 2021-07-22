@@ -1,7 +1,7 @@
 # Multiple-Discord-Accounts-Android
 
 ### Disclaimer
-This is a method where you use multiple discord apps. For every Account you want you have to create a new app
+This is a method where you use multiple discord apps. For every Account you want you have to create a new app. Im not responsible for any Damages and or loose of a discord account.
 
 ### Works for Discord Version `83.19 - stable`
 
