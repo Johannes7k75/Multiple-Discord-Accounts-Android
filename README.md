@@ -7,7 +7,7 @@ This is a method where you use multiple discord apps. For every Account you want
 
 ### Heres How
 1. Download [APK Easy Tool](https://forum.xda-developers.com/t/tool-windows-apk-easy-tool-v1-59-2-2021-04-03.3333960/)
-2. Download a Discord Apk. I include one but if you want to make sure you dont get a virus you can download one on yourself or create a.
+2. Download a Discord Apk. [Here one that i used](https://drive.google.com/file/d/1qxdWM4quQOzVqoPjPr_UDf9tpzbYKJz6/view?usp=sharing) but if you want to make sure you dont get a virus you can download one on yourself or create a.
 
 3. open APK Easy Tool select Browse, navigate to the discord apk and select they  
 5. Press on Decompile
