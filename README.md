@@ -3,7 +3,7 @@
 ### Disclaimer
 This is a method where you use multiple discord apps. For every Account you want you have to create a new app. Im not responsible for any Damages and or loose of a discord account.
 
-### Works for Discord Version `83.19 - stable`
+### Works for Discord Version `89.11 - stable`
 
 ### Heres How
 1. Download [APK Easy Tool](https://forum.xda-developers.com/t/tool-windows-apk-easy-tool-v1-59-2-2021-04-03.3333960/)
